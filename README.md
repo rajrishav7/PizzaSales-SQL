@@ -4,7 +4,7 @@
 📊 Project Overview
 This project showcases a comprehensive analysis of pizza sales data using SQL. It demonstrates practical data querying skills to extract insights that can drive business decisions for a fictional pizza chain. The analysis is designed to be clear, concise, and professionally structured—ideal for interviews or showcasing on a portfolio.
 
- #🚀 Objectives
+ 🚀 Objectives
  - Clean and structure raw sales data
 
 - Explore key performance indicators (KPIs)
@@ -13,10 +13,10 @@ This project showcases a comprehensive analysis of pizza sales data using SQL. I
 
 - Deliver actionable insights through SQL queries
 
-#🔧 Tools Used
+🔧 Tools Used
 SQL (Microsoft SQL Server / MySQL / PostgreSQL – specify your flavor)
 
- # 📁 Data Sources
+  📁 Data Sources
 The dataset includes:
 
 - Order details
@@ -25,7 +25,7 @@ The dataset includes:
 
 - Time-stamped sales data
 
- # 🧠 Key Insights
+  🧠 Key Insights
 Some notable findings extracted using SQL include:
 
 - Highest grossing pizza types by revenue
