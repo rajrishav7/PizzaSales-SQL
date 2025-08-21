@@ -43,8 +43,6 @@ Some notable findings extracted using SQL include:
 
 ---
 
-## 📑 Report (PDF)  
 
-👉 [View Full Pizza Sales Report (PDF)](./PizzaSales_Report.pdf)  
 
 ---
