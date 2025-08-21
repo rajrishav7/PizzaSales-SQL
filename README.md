@@ -38,6 +38,6 @@ Some notable findings extracted using SQL include:
 
   # IMAGE
 
-  <img width="1617" height="907" alt="Pizza Sales" src="https://github.com/user-attachments/assets/5877a5ee-1d3d-4ae8-8d35-7d3006fa207f" />
+  📑 [View Full Pizza Sales Report (PDF)](./PizzaSales_Report.pdf)
 
 
